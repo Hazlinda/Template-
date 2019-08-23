@@ -26,9 +26,9 @@ This template we can use to any new sytem veriilog verification environment.
 		//tmp_c<=0;
 		//"to be fill follow specification"
 
-	  /////////////////////	
-	  //addition operator//
-	  /////////////////////
+	  ////////////////////////
+	  //follow specification//
+	  ////////////////////////
 	      	always @ (posedge clk)
 	 	//if (valid) tmp_c <=a+b;
 		 //"to be fill follow specification"
@@ -218,7 +218,7 @@ This template we can use to any new sytem veriilog verification environment.
 
 
 
-# monitor
+# Monitor
 	////////////////
 	////////////////
 	//monitor.sv////
